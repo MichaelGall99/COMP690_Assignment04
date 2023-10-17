@@ -72,7 +72,7 @@ function seeWhoWins(userChoiceStr, computerChoiceStr) {
 }
 
 // MAIN FUNCTION TO PLAY THE ROCK, PAPER, SCISSORS GAME
-function playRockPaperScissors () {
+function playRockPaperScissors() {
     let userChoiceStr
     let computerChoiceStr
     let playAgain
